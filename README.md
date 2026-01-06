@@ -1,6 +1,6 @@
-# Vastra - E-Commerce Platform
+# Godha - E-Commerce Platform
 
-Vastra is a modern e-commerce platform built with TypeScript, featuring a React frontend and Express.js backend.
+Godha is a modern e-commerce platform built with TypeScript, featuring a React frontend and Express.js backend.
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ Vastra is a modern e-commerce platform built with TypeScript, featuring a React 
 ## 📁 Project Structure
 
 ```
-vastra/
+Godha/
 ├── backend/          # Express.js TypeScript backend
 │   ├── src/
 │   │   ├── server.ts
@@ -83,7 +83,7 @@ The frontend will start on `http://localhost:3000`
 
 ```
 MONGO_URL=mongodb://localhost:27017
-DB_NAME=vastra_db
+DB_NAME=Godha_db
 CORS_ORIGINS=http://localhost:3000
 PORT=8000
 ```

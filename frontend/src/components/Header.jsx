@@ -14,7 +14,7 @@ const Header = () => {
     <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-stone-200">
       {/* Top Bar */}
       <div className="bg-maroon-900 text-white py-2 px-4 text-center text-sm font-medium tracking-wide">
-        <span className="animate-pulse">✨</span> Free Shipping on Orders Above ₹999 | Use Code: <span className="font-bold">VASTRA30</span> for 30% Off
+        <span className="animate-pulse">✨</span> Free Shipping on Orders Above ₹999 | Use Code: <span className="font-bold">Godha30</span> for 30% Off
       </div>
       
       {/* Main Header */}

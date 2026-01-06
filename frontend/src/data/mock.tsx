@@ -1,7 +1,7 @@
-// Mock data for Vastra Textile E-commerce Landing Page
+// Mock data for Godha Textile E-commerce Landing Page
 
 export const brandInfo = {
-  name: "Vastra",
+  name: "Godha",
   tagline: "Elegance Woven in Every Thread",
   description: "Discover the finest collection of traditional sarees, dress materials, and contemporary T-shirts crafted with love and precision."
 };

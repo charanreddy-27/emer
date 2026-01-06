@@ -3,7 +3,7 @@
 ## Step 1: Create GitHub Repository
 
 1. Go to https://github.com/new
-2. Repository name: `vastra-ecommerce` (or your preferred name)
+2. Repository name: `Godha-ecommerce` (or your preferred name)
 3. Description: "Modern TypeScript e-commerce platform with React and Express"
 4. Select: **Public**
 5. **Do NOT check** "Initialize with README"

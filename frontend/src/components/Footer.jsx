@@ -101,8 +101,8 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={18} className="text-amber-500 flex-shrink-0" />
-                <a href="mailto:hello@vastra.com" className="text-stone-400 hover:text-amber-400 transition-colors">
-                  hello@vastra.com
+                <a href="mailto:hello@Godha.com" className="text-stone-400 hover:text-amber-400 transition-colors">
+                  hello@Godha.com
                 </a>
               </li>
             </ul>
@@ -149,7 +149,7 @@ const Footer = () => {
       <div className="border-t border-stone-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-stone-500">
-            <p>© {currentYear} Vastra Fashion Brand. All rights reserved.</p>
+            <p>© {currentYear} Godha Fashion Brand. All rights reserved.</p>
             <div className="flex gap-6">
               <a href="#privacy" className="hover:text-amber-400 transition-colors">Privacy Policy</a>
               <a href="#terms" className="hover:text-amber-400 transition-colors">Terms of Service</a>
